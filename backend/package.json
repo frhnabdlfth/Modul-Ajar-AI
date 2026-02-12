@@ -1,0 +1,1 @@
+{\n  "name": "my-backend",\n  "version": "1.0.0",\n  "dependencies": {\n    "express": "^4.18.2",\n    "openai": "^3.2.1",\n    "docx": "^7.0.0",\n    "pdfkit": "^0.12.1"\n  }\n}
