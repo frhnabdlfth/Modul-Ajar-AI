@@ -1,5 +1,16 @@
-# Object file
-*.o
+# Node.js
+node_modules/
+/npm-debug.log
+/yarn-debug.log
+/yarn-error.log
+/**/*.tsbuildinfo
 
-# Ada Library Information
-*.ali
+# Next.js
+/.next/
+/out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
