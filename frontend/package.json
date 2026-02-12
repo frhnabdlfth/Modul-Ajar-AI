@@ -1,0 +1,1 @@
+{\n  "name": "my-next-app",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "next": "latest",\n    "react": "latest",\n    "react-dom": "latest",\n    "tailwindcss": "latest"\n  },\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start"\n  },\n  "eslintConfig": {\n    "extends": "next/core-web-vitals"\n  }\n}
